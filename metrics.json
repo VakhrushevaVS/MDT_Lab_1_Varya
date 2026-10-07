@@ -1,0 +1,23 @@
+{
+  "student": "Вахрушева Варвара Сергеевна",
+  "group": "ИНДОР-221",
+  "variant": 3,
+  "config": {
+    "speed": 0.61,
+    "sensor_range": 1.6,
+    "avoid_threshold": 0.65,
+    "obstacles_count": 3,
+    "seed": 103
+  },
+  "metrics": {
+    "final_state": "GOAL",
+    "time_s": 42.65,
+    "path_length_m": 12.215,
+    "straight_line_m": 12.021,
+    "tortuosity": 1.016,
+    "fsm_transitions": 28,
+    "avoid_share": 0.626,
+    "min_clearance_m": 0.271,
+    "mean_speed_ms": 0.286
+  }
+}
